@@ -64,7 +64,7 @@ struct ContentView: View {
                         Button(action: {
                             showCamera = true
                         }) {
-                            Text("Generate meme")
+                            Text("Generate mood")
                         }
                         .foregroundColor(.black)
                         .cornerRadius(30)

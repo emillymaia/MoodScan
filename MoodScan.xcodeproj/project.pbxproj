@@ -11,6 +11,7 @@
 		ABBEE61D2A759B7100421168 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABBEE61C2A759B7100421168 /* ContentView.swift */; };
 		ABBEE61F2A759B7300421168 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ABBEE61E2A759B7300421168 /* Assets.xcassets */; };
 		ABBEE6222A759B7300421168 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ABBEE6212A759B7300421168 /* Preview Assets.xcassets */; };
+		ABBEE6292A759B9300421168 /* MemeEmotions.mlpackage in Sources */ = {isa = PBXBuildFile; fileRef = ABBEE6282A759B9300421168 /* MemeEmotions.mlpackage */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		ABBEE61C2A759B7100421168 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		ABBEE61E2A759B7300421168 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ABBEE6212A759B7300421168 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		ABBEE6282A759B9300421168 /* MemeEmotions.mlpackage */ = {isa = PBXFileReference; lastKnownFileType = folder.mlpackage; path = MemeEmotions.mlpackage; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				ABBEE61A2A759B7100421168 /* MoodScanApp.swift */,
 				ABBEE61C2A759B7100421168 /* ContentView.swift */,
+				ABBEE6282A759B9300421168 /* MemeEmotions.mlpackage */,
 				ABBEE61E2A759B7300421168 /* Assets.xcassets */,
 				ABBEE6202A759B7300421168 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				ABBEE61D2A759B7100421168 /* ContentView.swift in Sources */,
+				ABBEE6292A759B9300421168 /* MemeEmotions.mlpackage in Sources */,
 				ABBEE61B2A759B7100421168 /* MoodScanApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

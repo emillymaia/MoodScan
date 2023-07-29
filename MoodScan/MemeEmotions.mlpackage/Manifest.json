@@ -1,0 +1,24 @@
+{
+    "fileFormatVersion": "1.0.0",
+    "itemInfoEntries": {
+        "3BF08949-28B1-4DCD-BD86-FC050FDC6303": {
+            "author": "com.apple.CoreML",
+            "description": "CoreML Model Specification",
+            "name": "MemeEmotions.mlmodel",
+            "path": "com.apple.CoreML/MemeEmotions.mlmodel"
+        },
+        "982EC3C2-6AB8-44C5-993F-F367FC9C258C": {
+            "author": "com.apple.CoreML",
+            "description": "External Metadata Overlay",
+            "name": "Metadata.json",
+            "path": "com.apple.CoreML/Metadata.json"
+        },
+        "F52EEBAA-3870-43D6-81C3-33FB6D26CB9B": {
+            "author": "com.apple.CoreML",
+            "description": "External FeatureDescription Overlay",
+            "name": "FeatureDescriptions.json",
+            "path": "com.apple.CoreML/FeatureDescriptions.json"
+        }
+    },
+    "rootModelIdentifier": "3BF08949-28B1-4DCD-BD86-FC050FDC6303"
+}

@@ -12,6 +12,7 @@
 		ABBEE61F2A759B7300421168 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ABBEE61E2A759B7300421168 /* Assets.xcassets */; };
 		ABBEE6222A759B7300421168 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ABBEE6212A759B7300421168 /* Preview Assets.xcassets */; };
 		ABBEE6292A759B9300421168 /* MemeEmotions.mlpackage in Sources */ = {isa = PBXBuildFile; fileRef = ABBEE6282A759B9300421168 /* MemeEmotions.mlpackage */; };
+		ABBEE62D2A759CD000421168 /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABBEE62C2A759CD000421168 /* CameraViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		ABBEE61E2A759B7300421168 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ABBEE6212A759B7300421168 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		ABBEE6282A759B9300421168 /* MemeEmotions.mlpackage */ = {isa = PBXFileReference; lastKnownFileType = folder.mlpackage; path = MemeEmotions.mlpackage; sourceTree = "<group>"; };
+		ABBEE62C2A759CD000421168 /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 		ABBEE6192A759B7100421168 /* MoodScan */ = {
 			isa = PBXGroup;
 			children = (
+				ABBEE62C2A759CD000421168 /* CameraViewController.swift */,
 				ABBEE61A2A759B7100421168 /* MoodScanApp.swift */,
 				ABBEE61C2A759B7100421168 /* ContentView.swift */,
 				ABBEE6282A759B9300421168 /* MemeEmotions.mlpackage */,
@@ -140,6 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ABBEE62D2A759CD000421168 /* CameraViewController.swift in Sources */,
 				ABBEE61D2A759B7100421168 /* ContentView.swift in Sources */,
 				ABBEE6292A759B9300421168 /* MemeEmotions.mlpackage in Sources */,
 				ABBEE61B2A759B7100421168 /* MoodScanApp.swift in Sources */,

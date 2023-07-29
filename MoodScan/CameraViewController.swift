@@ -2,7 +2,7 @@
 //  CameraViewController.swift
 //  MoodScan
 //
-//  Created by Emilly Maia on 29/07/23.
+//  Created by Emilly Maia on 17/05/23.
 //
 
 import SwiftUI
